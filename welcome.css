@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+video{
+    width: 100%;
+}
+.container1{
+    background-color: blanchedalmond;
+    display: flex;
+
+}
+.container1 img{
+    width: 500px;
+    height: 300px;
+    margin: 2% 6%;
+}
+.container1 .title{
+    padding: 10% 20%;
+}
+.container2{
+    background-color: rgb(218, 255, 235);
+    display: flex;
+
+}
+.container2 img{
+    width: 500px;
+    height: 300px;
+    margin: 2% 6%;
+}
+.container2 .title{
+        padding: 10% 20%;
+}
+    
